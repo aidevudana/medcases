@@ -1,6 +1,7 @@
 import Navbar from '@/components/layout/Navbar';
 import Link from 'next/link';
-import { ExternalLink, Link2, X, Globe, Code, Camera, Stethoscope, Rocket, AlertCircle } from 'lucide-react';
+import Image from 'next/image';
+import { ExternalLink, Link2, X, Globe, Code, Camera, Stethoscope, Rocket, AlertCircle, Sparkles, Megaphone } from 'lucide-react';
 
 export default function AboutPage() {
   return (
@@ -34,9 +35,9 @@ export default function AboutPage() {
             Creator
           </h2>
           <div className="flex items-start gap-4 mb-4">
-            <div className="w-14 h-14 rounded-xl flex items-center justify-center shrink-0 text-2xl font-bold"
-              style={{ background: '#0E2440', color: '#E39B2E', fontFamily: 'Space Grotesk' }}>
-              UA
+            <div className="relative w-20 h-28 rounded-xl overflow-hidden shrink-0"
+              style={{ background: '#0E2440', border: '1px solid #DDD8CC' }}>
+              <Image src="/medcases/udana-anjana.jpg" alt="Udana Anjana" fill className="object-cover" sizes="80px" />
             </div>
             <div>
               <h3 className="font-bold text-base" style={{ fontFamily: 'Space Grotesk', color: '#0E2440' }}>
@@ -46,7 +47,7 @@ export default function AboutPage() {
                 Final year MBBS · Faculty of Medicine & Allied Sciences, Rajarata University of Sri Lanka
               </p>
               <p className="text-sm" style={{ color: '#5B6473' }}>
-                Lead Photographer · Studio Dark Arts · Developer & Designer
+                Lead Photographer · Studio Dark Arts · AI/ML Engineer · Full Stack Developer · SMM Specialist
               </p>
             </div>
           </div>
@@ -54,7 +55,9 @@ export default function AboutPage() {
             {[
               { icon: Stethoscope, label: 'RUSL FMAS', note: 'Final MBBS' },
               { icon: Camera, label: 'Studio Dark Arts', note: 'Lead Photographer' },
-              { icon: Code, label: 'Developer', note: 'Apps, Web, AI' },
+              { icon: Sparkles, label: 'AI/ML Engineer', note: 'Models & Pipelines' },
+              { icon: Code, label: 'Full Stack Developer', note: 'Apps, Web' },
+              { icon: Megaphone, label: 'SMM Specialist', note: 'Social Media' },
             ].map(({ icon: Icon, label, note }) => (
               <div key={label} className="rounded-lg p-3 flex items-center gap-2"
                 style={{ background: '#F3F0E8', border: '1px solid #DDD8CC' }}>
