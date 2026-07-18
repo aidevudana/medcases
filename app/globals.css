@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+:root {
+  --ink: #0E2440;
+  --teal: #0B6E6E;
+  --teal-d: #085252;
+  --teal-l: #E1F0EE;
+  --amber: #B87A0A;
+  --amber-l: #FBF0D9;
+  --coral: #C0402A;
+  --coral-l: #FBE6E1;
+  --paper: #F8F4EE;
+  --paper2: #FFFCF7;
+  --mute: #5B6473;
+  --line: #DDD8CC;
+  --navy-l: #E7ECF3;
+}
+
+html { scroll-behavior: smooth; }
+body { background: var(--paper); color: var(--ink); font-family: 'Inter', system-ui, sans-serif; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
+
+.font-display { font-family: 'Space Grotesk', system-ui, sans-serif; }
+.font-mono { font-family: 'IBM Plex Mono', ui-monospace, monospace; }
+
+/* Markdown-like prose inside enriched notes */
+.prose-note h3 { font-size: 1rem; font-weight: 600; color: var(--ink); margin: 1rem 0 0.4rem; }
+.prose-note p { font-size: 0.875rem; line-height: 1.65; color: #334155; margin-bottom: 0.5rem; }
+.prose-note ul { padding-left: 1rem; margin-bottom: 0.5rem; }
+.prose-note li { font-size: 0.875rem; line-height: 1.6; color: #334155; list-style: disc; margin-bottom: 0.25rem; }
+.prose-note strong { color: var(--ink); font-weight: 600; }
+.prose-note .highlight { background: var(--amber-l); border-left: 3px solid var(--amber); padding: 8px 12px; border-radius: 0 6px 6px 0; margin: 8px 0; font-size: 0.875rem; }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--line); border-radius: 10px; }
