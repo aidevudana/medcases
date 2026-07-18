@@ -1,0 +1,702 @@
+[
+  {
+    "id": "developmental-dysplasia-of-the-hip-ddh",
+    "slug": "developmental-dysplasia-of-the-hip-ddh",
+    "name": "Developmental Dysplasia of the Hip (DDH)",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1a1YiRY7xnnXjxLBW3RIm5KF4g8odKJ0f", "title": "DDH.pdf", "viewUrl": "https://drive.google.com/file/d/1a1YiRY7xnnXjxLBW3RIm5KF4g8odKJ0f/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Definition",
+        "content": "Developmental Dysplasia of the Hip (DDH) is a condition where the hip joint does not develop properly in infants and young children. The hip joint may be partially or completely dislocated, or have a shallow socket (acetabulum), causing instability and potential long-term issues with hip function.\n- Spectrum: complete hip dislocation, partial hip subluxation, hip dysplasia, dislocatable hip",
+        "type": "definition"
+      },
+      {
+        "heading": "Hip Joint Anatomy",
+        "content": "The hip joint is a ball-and-socket joint connecting the femur to the pelvic bone. The ball-shaped head of the femur fits into the acetabulum, allowing a wide range of motion and supporting weight-bearing activities such as walking and running.",
+        "type": "generic"
+      },
+      {
+        "heading": "Pathophysiology",
+        "content": "- A combination of genetic predisposition and environmental factors leads to DDH. Family history of hip problems and breech presentation during birth increase risk.\n- The hip joint may develop abnormally, resulting in a shallow acetabulum or improper alignment of the femoral head, causing instability and potential dislocation.\n- Infants with DDH often have increased ligamentous laxity in their hip joints, making them more susceptible to joint displacement.",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "Associated Conditions",
+        "content": "- Torticollis\n- Metatarsus adductus\n- Calcaneovalgus\n- Talipes varus\n- Plagiocephaly (flat head syndrome)",
+        "type": "generic"
+      },
+      {
+        "heading": "Classification (Graf's Classification)",
+        "content": "Two major groups: **Typical** (occurs in otherwise normal patients without defined syndromes) and **Teratologic** (identifiable causes such as arthrogryposis or a genetic syndrome, occurring before birth).\n\nGraf's ultrasound classification:\n- Type I — Mature: bony roof good, alpha angle >= 60 degrees, sharp bony rim, good femoral head coverage\n- Type IIa+ — Immature but appropriate for age (<3 months): adequate bony roof, alpha 50-59 degrees\n- Type IIa- — Immature but inappropriate for age (<3 months): deficient bony roof, alpha 50-59 degrees\n- Type IIb — Delay in development (>3 months): deficient bony roof, alpha 50-59 degrees\n- Type IIc — Severely deficient bony roof, alpha 50-59 degrees, stable or unstable\n- Type D — Decentring hip: severely deficient, alpha 43-49 degrees\n- Type III — Eccentric hip: poor bony roof, alpha <43 degrees, labrum pressed upwards\n- Type IV — Eccentric hip: poor bony roof, alpha <43 degrees, labrum pressed downwards",
+        "type": "generic"
+      },
+      {
+        "heading": "Risk Factors",
+        "content": "- Genetic component / family history of DDH\n- Breech position (stresses the hip joint during birth)\n- Multiple births (limited space in the uterus)\n- Firstborn child (tight uterine space in first pregnancy)\n- Oligohydramnios\n- Maternal hormones influencing hip joint tissue development\n- Race",
+        "type": "clinical"
+      },
+      {
+        "heading": "Signs & Symptoms",
+        "content": "**Infants (0-6 months):**\n- Limited hip abduction — one of the earliest signs\n- Asymmetry in skin creases, thigh, or buttocks\n- Clicking or clunking sound on examination\n- Leg length discrepancy in severe cases\n\n**Older infants and children:**\n- Difficulty walking — abnormal gait, limping or toe-walking\n- Hip pain or discomfort\n- Reduced range of motion, particularly on abduction\n\n**Adolescents and adults (if untreated):**\n- Hip pain\n- Early-onset osteoarthritis with chronic pain and reduced mobility",
+        "type": "clinical"
+      },
+      {
+        "heading": "Diagnosis",
+        "content": "**Physical examination:**\n- Ortolani test — gently flex and abduct the infant's hips while feeling for a \"clunk\"; positive sign suggests hip instability\n- Barlow test — gently adduct the infant's hips while feeling for dislocation; positive sign indicates the hip can be easily dislocated\n- Galeazzi sign — in older infants/children, assess leg length and asymmetry in thigh/knee creases\n\n**Imaging:**\n- Ultrasound — primary modality for infants younger than 6 months\n- X-ray — used for older infants, children, and adults with suspected DDH\n\nClinical evaluation also considers family history, gender, and other risk factors. Follow-up ultrasound/imaging may be scheduled if clinical exam is positive but ultrasound unclear.",
+        "type": "investigations"
+      },
+      {
+        "heading": "Treatment",
+        "content": "- **Pavlik harness** — common treatment for infants under 6 months with mild-moderate DDH; holds the hips flexed and abducted, allowing the joint to develop properly; requires regular monitoring\n- **Bracing** — for infants older than 6 months or a less flexible hip joint\n- **Closed reduction** — non-surgical manoeuvre to relocate the hip, followed by a cast or brace\n- **Open reduction** — surgical repositioning when conservative methods fail; hip stabilized with cast or external fixator afterward\n- **Osteotomy** — in older children/adults, pelvic or femoral osteotomy to correct alignment\n- **Long-term follow-up** — regular checkups and imaging regardless of treatment method",
+        "type": "management"
+      },
+      {
+        "heading": "Complications",
+        "content": "- Osteoarthritis\n- Hip pain\n- Functional impairment\n- Leg length discrepancy\n- Gait abnormalities\n- Psychological and social impact\n- Revision surgeries",
+        "type": "complications"
+      },
+      {
+        "heading": "Prevention",
+        "content": "- Awareness of risk factors (family history, breech birth)\n- Safe swaddling techniques allowing hip movement\n- Choosing baby carriers, slings and car seats that support healthy hip development\n- Regular prenatal checkups to monitor fetal positioning\n- Early detection — prompt medical attention for signs of hip instability/asymmetry\n- Adherence to prescribed treatment plan if DDH is diagnosed",
+        "type": "generic"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["hip", "paediatric orthopaedics", "DDH"]
+  },
+  {
+    "id": "osteosarcoma",
+    "slug": "osteosarcoma",
+    "name": "Osteosarcoma",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1zxyjrsRv-HKbmTQOkibYAsFkz6cxKb6R", "title": "(19) osteosarcoma.pdf", "viewUrl": "https://drive.google.com/file/d/1zxyjrsRv-HKbmTQOkibYAsFkz6cxKb6R/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Pathology",
+        "content": "- A malignant tumour commonly seen in the 10-25 age group\n- If it occurs later in life, often a complication of Paget's disease\n- Arises from primitive bone-forming cells\n- Commonest sites: distal femur, proximal tibia, proximal humerus\n- Tumour begins in the metaphysis, destroys bone structure and bursts into surrounding soft tissue, crossing the epiphyseal cartilage into the epiphysis itself\n- Composed mainly of fibrous tissue, neoplastic new bone, osteoid tissue, newly formed bone\n- Metastasises via bloodstream to lungs and other bones",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "Clinical Features",
+        "content": "- Local bone pain with gradually increasing swelling\n- O/E: diffuse firm thickening near the end of a bone, close to the joint; overlying skin is warmer\n- Skin appears stretched and shiny",
+        "type": "clinical"
+      },
+      {
+        "heading": "Imaging & Diagnosis",
+        "content": "- X-ray\n- MR scanning — Codman's triangle, sunray/sun-burst appearance can be seen\n- Radioisotope scanning\n- MRI scanning\n- CT scanning of lung fields (for metastases)\n- Diagnosis confirmed by closed needle or open biopsy with histological examination",
+        "type": "investigations"
+      },
+      {
+        "heading": "Differential Diagnosis",
+        "content": "- Subacute osteomyelitis\n- Chondrosarcoma\n- Malignant fibrous histiocytoma\n- Giant-cell tumour\n- Ewing's tumour\n- Metastatic tumour",
+        "type": "generic"
+      },
+      {
+        "heading": "Treatment",
+        "content": "**Chemotherapy** (cytotoxic drugs, prevent/delay pulmonary metastases):\n- High-dose methotrexate\n- Doxorubicin\n- Cisplatin\n- Ifosfamide\n\n**Operative:** limb salvage surgery — radical resection and replacement with a metallic prosthesis or massive bone graft",
+        "type": "management"
+      },
+      {
+        "heading": "Related Bone Lesion Appearances",
+        "content": "- Osteosarcoma arises in the metaphysis: destruction of bone, periosteum raised with new bone formed beneath it, cortex disrupted by tumour\n- Ewing's tumour arises in the diaphysis: central area of destruction with concentric layers of subperiosteal new bone giving an 'onion-peel' appearance\n- Multiple myeloma: small 'punched-out' osteolytic tumours scattered throughout the skeleton, especially in bone containing abundant red marrow\n- Metastatic tumours in bone: circumscribed destruction of bone without periosteal reaction — much more common than primary malignant bone tumours\n- Characteristic 'sun-ray' spiculation with Bryant's/Codman's triangle seen on AP/lateral radiographs where the aggressive bone-forming lesion breaches the cortex\n- Pulmonary metastases are the usual cause of death in osteosarcoma",
+        "type": "highyield"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["bone tumour", "malignancy", "osteosarcoma"]
+  },
+  {
+    "id": "septic-arthritis",
+    "slug": "septic-arthritis",
+    "name": "Septic Arthritis",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "16S2QU0SmIH0Dn965hSwBJ01W9RdZCKpl", "title": "Septic Arthritis.pdf", "viewUrl": "https://drive.google.com/file/d/16S2QU0SmIH0Dn965hSwBJ01W9RdZCKpl/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Definition & Pathophysiology",
+        "content": "Joint infection = septic arthritis. Any joint can be involved.\n\nInfection can enter the joint via:\n- **Indirect route (haematogenous)** — the common method; bacteria disseminate from another focus (e.g. endocarditis, respiratory tract infection)\n- **Direct route** — direct inoculation / local extension from an infected source (e.g. traumatic wound, wound infection); can also occur via catheterisation or interventions\n\nFrom either route: bacteraemia -> organisms lodge in the joint -> multiply in synovial fluid -> inflammation and pus formation -> septic arthritis.",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "Organisms",
+        "content": "- **Staphylococcus aureus** — the common organism overall\n- Neonates: Staphylococcus aureus\n- Children: Staphylococcus aureus, E. coli, Streptococcus agalactiae, Haemophilus (reduced since vaccine introduction, can still present)\n- Adults: Staphylococcus aureus\n- Pseudomonas — IV drug users\n- Salmonella — sickle cell anaemia",
+        "type": "generic"
+      },
+      {
+        "heading": "Risk Factors",
+        "content": "- Drug addicts (IVDU)\n- Interventions (e.g. catheterisation)\n- Extremes of age\n- Rheumatoid arthritis\n- Immunocompromise\n\nMost commonly affects hips in neonates, and knees in adults and children.",
+        "type": "clinical"
+      },
+      {
+        "heading": "Clinical Features",
+        "content": "**Local features of inflammation:** red, swollen, painful, warm, loss of function depending on the joint. In deep joints swelling/redness may not be visible.\n- Joint held immobile in the position of comfort (e.g. hip held externally rotated, flexed and abducted)\n- Severe pain on active or passive movement\n\n**Generalized features:** febrile; children may become irritable/toxic with poor feeding, nausea, vomiting; adults may have only low-grade fever or none.",
+        "type": "clinical"
+      },
+      {
+        "heading": "Investigations",
+        "content": "- Full blood count, ESR, CRP, blood cultures\n- Deep joints: ultrasound (X-ray not very valuable); MRI in extreme situations\n- **Joint aspiration** is key: send for analysis, plus a separate sample for culture and ABST (antibiotic sensitivity testing)\n- Aspirate under ultrasound guidance for deep joints\n- Giving antibiotics before aspiration can cause a false-negative culture, leading to partially treated (and resistant) septic arthritis — avoid unless the patient is septic\n- Joint fluid Gram stain and WCC are poorly predictive of infection",
+        "type": "investigations"
+      },
+      {
+        "heading": "Management",
+        "content": "This is a surgical **EMERGENCY** — admit and eradicate infection promptly.\n1. **Drainage** — arthrotomy to wash out and remove pus\n2. **Antibiotics** — empirical, covering Staph aureus (cloxacillin/flucloxacillin, cephalosporins) plus Gram-negative cover (gentamicin); broad spectrum (meropenem) only in severe cases\n3. Change antibiotics per culture/sensitivity report (received in 3-4 days) if not responding\n4. Continue antibiotics for **4-6 weeks**: IV initially, then switch to oral once improving\n5. Monitor response via investigations and fever charts",
+        "type": "management"
+      },
+      {
+        "heading": "Complications",
+        "content": "- Septic shock, SIRS, multi-organ dysfunction (MODS)\n- Destruction of cartilage (from abscess pressure) leading to osteoarthritis and chronic pain (rare)\n- In children: growth plate destruction -> growth deformities/arrest\n- Spread to bone -> osteomyelitis (acute -> chronic)",
+        "type": "complications"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["joint infection", "emergency", "septic arthritis"]
+  },
+  {
+    "id": "fracture-management-healing-and-complications",
+    "slug": "fracture-management-healing-and-complications",
+    "name": "Fracture Management, Healing & Complications",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1gab-oTpWu1DwEkURs9TscXTVH71fUSdy", "title": "fracture management, healing, complications.pdf", "viewUrl": "https://drive.google.com/file/d/1gab-oTpWu1DwEkURs9TscXTVH71fUSdy/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Aims & Principles of Definitive Management",
+        "content": "**Aims of management:**\n1. Prevent further damage\n2. Allow the fracture to heal\n3. Restore function in the injured limb\n\n**Principles — the 3 Rs:**\n1. Reduction\n2. Retention (immobilisation)\n3. Rehabilitation",
+        "type": "management"
+      },
+      {
+        "heading": "Reduction",
+        "content": "- **Closed reduction** — manipulation under anaesthesia, guided by X-ray\n- **Open reduction** — more accurate; done via nails, skin traction, or skeletal traction",
+        "type": "management"
+      },
+      {
+        "heading": "Retention (Immobilisation)",
+        "content": "- External: POP cast, skin traction, external fixation\n- Internal: plate, screws, nails, wires",
+        "type": "management"
+      },
+      {
+        "heading": "Indications & Contraindications for Operative Management",
+        "content": "**Indications:**\n- Failed closed reduction\n- Fractures known to heal poorly following closed management\n- Multiple traumatic injuries, or fractures involving pelvis, femur, or vertebrae\n- Non-union or malunion that has failed to respond to operative treatment\n\n**Contraindications:**\n- Active infection\n- Soft tissue compromise overlying the fracture\n- Medical conditions that contraindicate surgery or anaesthesia risk",
+        "type": "management"
+      },
+      {
+        "heading": "Rehabilitation",
+        "content": "- Mobilise the limb and joints to prevent stiffness and muscle atrophy\n- Consider weight-bearing status and range of motion of the joint\n- Muscle strengthening: static and dynamic exercises",
+        "type": "management"
+      },
+      {
+        "heading": "Fracture Healing",
+        "content": "Most fractures are splinted not merely to relieve pain, but to (1) ensure union takes place in a good position, and (2) permit early movement of the limb and return of function.\n\nFracture repair varies according to the type of bone involved and the amount of movement at the fracture site.\n\n**Ways of healing:**\n1. Healing by callus\n2. Healing by direct union\n\n**Healing by callus** — the natural form of healing in tubular bone, with 5 stages:\n1. Tissue destruction and haematoma formation\n2. Inflammation and cellular proliferation\n3. Callus formation — response to movement at the fracture site\n4. Consolidation\n5. Remodelling\n\n**Healing by direct union** — occurs when there is absolutely no movement at the fracture site (rigid fixation); osteoblastic new bone formation occurs directly between fragments without callus formation.",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "Complications of Fractures — Deep Vein Thrombosis",
+        "content": "DVT can occur in normal vessels (without direct damage). Major causes: **stasis** and **hypercoagulability**. Majority occur in deep veins of the legs.\n\n- Red thrombi originate around valves; a propagating thrombus of fibrin and platelets is able to embolise\n- Chronic venous obstruction causes a swollen limb with ulceration\n- Occurs in up to 60% of hospitalised patients (at risk)\n\n**Risk factors:** age, BMI >30 kg/m2, varicose veins, continuous travel, puerperium, immobility, pregnancy, previous DVT, thrombophilia, oestrogen therapy, dysfibrinogenaemia, plasminogen deficiency, surgical procedures (especially pelvis/hip, lower limb), trauma/surgery, malignancy, cardiac or respiratory failure, recent MI, acute medical illness, inflammatory bowel disease, Behcet's disease, nephrotic syndrome.\n\n**Clinical features:** often asymptomatic. Major presenting features: pain in calf, swelling, redness, engorged/warm superficial veins, ankle oedema, Homan's sign (pain on passive dorsiflexion of foot). Complete occlusion can cause cyanotic discoloration, oedema, and venous gangrene.\n\n**Investigations:** Doppler ultrasound (compression, above/below knee), fibrinogen scanning, impedance plethysmography, venogram.\n\n**Management:** aim is to prevent pulmonary embolism.\n- Above-knee DVT: anticoagulation for 6 weeks\n- Below-knee DVT: anticoagulation for 4 weeks\n- Bed rest initially, mobilise with graduated compression (elastic stockings)\n- Low molecular weight heparin commonly used\n- Recurrent DVT may need permanent anticoagulation\n- Thrombolytic therapy given for large iliofemoral thrombosis",
+        "type": "complications"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["fracture", "trauma", "DVT"]
+  },
+  {
+    "id": "spinal-stenosis",
+    "slug": "spinal-stenosis",
+    "name": "Spinal Stenosis",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1OPY0RG9eq1cIYLv7m3E74fB3lCHmI_WS", "title": "Spinal stenosis.pdf", "viewUrl": "https://drive.google.com/file/d/1OPY0RG9eq1cIYLv7m3E74fB3lCHmI_WS/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Pathology",
+        "content": "Spinal stenosis is claudication of the cauda equina, mainly affecting the lumbar region.\n- Normally, some people have a congenitally narrowed spinal canal but with adequate room for the cauda equina\n- Secondary causes narrow the lumen further:\n  1. Formation of osteophytes in facet joints\n  2. Bulging of intervertebral disc\n- Narrowing of the lumen -> lack of room -> reduced blood supply to cauda equina -> reduced nerve function",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "Clinical Features",
+        "content": "- Mostly affects elderly men\n- Heavy aching in one or both lower limbs after walking for 10-15 minutes, or after prolonged standing\n- Can be differentiated from vascular claudication: pain reduces with sitting (spine flexed widens the canal)",
+        "type": "clinical"
+      },
+      {
+        "heading": "Examination",
+        "content": "Features of degenerative change in the lumbar spine — impairment of mobility can be seen.",
+        "type": "examination"
+      },
+      {
+        "heading": "Imaging",
+        "content": "1. Plain radiographs — narrowness of spinal canal, constriction by posterior osteophytes on vertebral body margins related to facet joints\n2. MRI — clear shape of the spinal canal, bony or soft-tissue outgrowths on a normal or congenitally narrowed canal",
+        "type": "investigations"
+      },
+      {
+        "heading": "Diagnosis",
+        "content": "Should exclude vascular claudication by examining for vascular system abnormality.",
+        "type": "investigations"
+      },
+      {
+        "heading": "Treatment",
+        "content": "- Modification of activities — reduce walking, avoid prolonged standing\n- If an established case with severe symptoms: operation to decompress the spinal canal by removing osteophytes and enlarging the lateral recesses at the site of narrowing/constriction",
+        "type": "management"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["spine", "claudication", "spinal stenosis"]
+  },
+  {
+    "id": "fractured-neck-of-femur",
+    "slug": "fractured-neck-of-femur",
+    "name": "Fractured Neck of Femur — Management & Complications of Immobility",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1C4XxuJpQqXz9ALnIROF-W54bXgXZ7BTU", "title": "Bed sores, complications.pdf", "viewUrl": "https://drive.google.com/file/d/1C4XxuJpQqXz9ALnIROF-W54bXgXZ7BTU/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Case-Based Presentation",
+        "content": "81-year-old male, swelling and tenderness in left groin/hip region. Left leg shortened and externally rotated; other leg normal. Conscious, no numbness/tingling (no neurovascular damage). Diagnosis: extracapsular left femoral neck fracture (probable mechanism: lost control while riding, put leg down to keep balance). No head impact, distal pulse present.\n\n**Investigations:** left hip X-ray; raised serum creatinine (156, normal 60-120); FBC showed low RBC/Hb; ECG.\n\n**Clinical pearl:** in femoral neck fractures the affected limb is shortened and externally rotated. In posterior hip dislocation, the femoral head lies above the acetabulum with the hip flexed, internally rotated and shortened; extension of the hip causes pain.",
+        "type": "clinical"
+      },
+      {
+        "heading": "Why Operate?",
+        "content": "This is a closed fracture — operative management is preferred over conservative treatment. Without surgery the fracture may malunite, and prolonged bed rest carries major risk from immobility. Elderly patients often have osteoporosis and comorbidities, but operating (and enabling early mobilisation) prevents the complications of prolonged bed rest.",
+        "type": "management"
+      },
+      {
+        "heading": "Complications of Prolonged Immobility",
+        "content": "- **Pressure ulcers** — any bony prominence can develop pressure sores if not repositioned; sacral ulcers are commonest in the supine position\n- **Muscle atrophy and joint stiffness** — from not moving the limb\n- **Bone demineralisation**\n- **Hypostatic pneumonia**\n- **DVT** — Virchow's triad (stasis, hypercoagulability, endothelial damage) triggers clot formation; staying in bed causes stasis, and dehydration (from not eating/drinking normally) increases blood viscosity and hypercoagulability\n  - Consequences of DVT: clot may resolve; may propagate up to IVC; a piece may embolise to the lung (pulmonary embolism) — a large clot blocking major trunks can cause instantaneous death\n- Aspiration pneumonia, chest infections\n- Bowel/bladder hygiene issues -> UTI\n- Nutritional deficiencies\n- Dehydration -> pre-renal failure -> acute kidney injury; electrolyte imbalance (hyponatraemia) -> confusion",
+        "type": "complications"
+      },
+      {
+        "heading": "Pre-operative Optimisation",
+        "content": "As soon as a patient with a neck of femur fracture presents:\n1. X-ray to confirm diagnosis\n2. IV fluids to hydrate and correct/avoid electrolyte imbalance\n3. Analgesia to reduce pain (adequate pain relief allows earlier mobilisation)\n4. DVT prophylaxis\n5. Pressure sore prevention — air mattress, turn the patient every hour\n6. Basic investigations: Hb, pH, electrolytes — correct abnormalities\n7. If the patient is on an anticoagulant (e.g. warfarin), give vitamin K 10 mg IV/IM to normalise INR; if vitamin K is not responding, factor correction (more expensive) can be used",
+        "type": "management"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["hip fracture", "trauma", "immobility complications"]
+  },
+  {
+    "id": "slipped-capital-femoral-epiphysis",
+    "slug": "slipped-capital-femoral-epiphysis",
+    "name": "Slipped Capital Femoral Epiphysis (SCFE)",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "16NuuGfnzmjk-Ry0rLqxbVlzK1qmugP18", "title": "SLIPPED CAPITAL FEMORAL EPIPHYSIS.pdf", "viewUrl": "https://drive.google.com/file/d/16NuuGfnzmjk-Ry0rLqxbVlzK1qmugP18/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Definition & Cause",
+        "content": "Displacement of the upper femoral epiphysis from its normal position on the femoral neck. Displacement occurs at the epiphyseal line (growth plate). Exact cause is unknown, often associated with being overweight.",
+        "type": "definition"
+      },
+      {
+        "heading": "Pathology",
+        "content": "The junction between the capital epiphysis and the femoral neck loosens. Downward pressure of weight-bearing and the upward pull of muscles on the femur displace the epiphysis from its normal position. Displacement is always backward and downward.\n- Gradual displacement, or\n- Sudden displacement following an injury such as a fall",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "Clinical Features",
+        "content": "- Patient typically between 10 and 20 years of age\n- Evidence of an endocrine disturbance leading to marked overweight\n- Gradual onset of hip pain with a limp; pain can be felt in the knee",
+        "type": "clinical"
+      },
+      {
+        "heading": "Examination",
+        "content": "Characteristic sign: selective limitation of certain hip movements — flexion, abduction, medial rotation are restricted, while lateral rotation and adduction remain full or increased. Forcing movement in the restricted range exacerbates the pain.",
+        "type": "examination"
+      },
+      {
+        "heading": "Investigations",
+        "content": "- Antero-posterior radiograph — alone not sufficient\n- Lateral radiograph — essential; even a slight displacement of the epiphysis is recognisable. Confirms the epiphysis has slipped backwards on the femoral neck.\n\nDiagnosis = clinical features + radiological evidence.",
+        "type": "investigations"
+      },
+      {
+        "heading": "Treatment",
+        "content": "Depends on degree of displacement.\n- **Slight displacement:** prevent further displacement by driving threaded wires or slender screws along the femoral neck into the epiphysis (in-situ pinning)\n- **Severe displacement:** position should be improved via one of 3 methods — manipulation, operative replacement of the epiphysis at the site of slipping, or compensatory osteotomy at a lower level",
+        "type": "management"
+      },
+      {
+        "heading": "Complications",
+        "content": "1. **Avascular necrosis** — blood supply damaged during attempted reduction/manipulation, or spontaneously during injury\n2. **Cartilage necrosis** — thinning of articular cartilage with marked restriction of joint movement; commonest after operative treatment\n3. **Late osteoarthritis** — when severe displacement remains uncorrected",
+        "type": "complications"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["hip", "paediatric orthopaedics", "SCFE"]
+  },
+  {
+    "id": "congenital-talipes-equinovarus-ctev",
+    "slug": "congenital-talipes-equinovarus-ctev",
+    "name": "Congenital Talipes Equinovarus (CTEV / Clubfoot)",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1THlKBa7eAj_sxtiaGwLqrn4NrYiCCP4-", "title": "CTEV - Orthopedic.pdf", "viewUrl": "https://drive.google.com/file/d/1THlKBa7eAj_sxtiaGwLqrn4NrYiCCP4-/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Definition & Types",
+        "content": "Congenital abnormality of the foot with equinus and varus position of the hindfoot, and adduction and inversion of the forefoot. Equinus = plantar flexion; varus = medial/internal rotation.\n\n**Types:** congenital clubfoot, clubfoot posture, congenital pes adductus, neuromuscular clubfoot, clubfoot in systemic disorders (e.g. arthrogryposis).",
+        "type": "definition"
+      },
+      {
+        "heading": "Classification",
+        "content": "Two classifications for severity:\n1. **Dimeglio classification:**\n   - Grade I (Benign/Mild) — readily reducible without significant resistance\n   - Grade II (Moderate) — reducible with a certain degree of resistance\n   - Grade III (Severe) — only reducible against strong resistance\n   - Grade IV (Very severe) — not reducible\n2. **Pirani classification**",
+        "type": "generic"
+      },
+      {
+        "heading": "Aetiology",
+        "content": "1. Idiopathic clubfoot — most common\n2. Genetic factors — polygenic (carried by several genes, not a single gene)\n3. Environmental influences during pregnancy — e.g. smoking\n4. Incorrect intrauterine position\n5. Breech presentation\n\nDuring pregnancy, the foot remains in a physiological clubfoot position until the 11th week; the fibula grows faster than the tibia until this point, after which tibial growth begins.",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "Pathology & Pathological Anatomy",
+        "content": "Consists of bone deformity and soft tissue contracture, with muscle/cartilage anomalies and vascular abnormalities (e.g. hypoplasia/absence of anterior tibial artery).\n\n**Muscle contractures (CAVE):**\n- **C**avus — tight intrinsics, FHL, FDL\n- **A**dductus of forefoot — tight tibialis posterior\n- **V**arus — tight Achilles, tibialis posterior, tibialis anterior\n- **E**quinus — tight Achilles tendon\n- Atrophy of calf muscles\n\n**Bony deformity:** medial spin of the midfoot/forefoot relative to the hindfoot. Talar neck medially and plantarly deviated; calcaneus in varus, rotated medially around talus; navicular and cuboid displaced medially.",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "Associated Conditions",
+        "content": "- Arthrogryposis\n- Diastrophic dysplasia\n- Myelodysplasia\n- Tibial hemimelia\n- Amniotic band syndrome (Streeter dysplasia)\n- Pierre Robin, Opitz, Larsen, and prune-belly syndromes\n- Anterior tibial artery hypoplasia/absence common regardless of aetiology",
+        "type": "generic"
+      },
+      {
+        "heading": "Diagnosis",
+        "content": "**1. Physical exam:** small foot and calf, shortened tibia, medial and posterior foot skin creases, hindfoot in equinus/varus, midfoot in cavus, forefoot in adduction.\n\n**2. X-ray:** talus and calcaneus largely parallel (normal foot axis angle ~40 degrees, range 20-50 degrees, on AP and lateral views); calcaneus slopes downward dorsal-to-ventral; forefoot also in downward sloping oblique position. Usually recorded around 4 months of age (during corrective treatment) to plan surgery.\n\n**3. Ultrasound:** clubfoot sometimes diagnosed in utero.",
+        "type": "investigations"
+      },
+      {
+        "heading": "Treatment",
+        "content": "Severe clubfoot treatment has 4 phases: (1) Corrective treatment, (2) Operation, (3) Retention treatment, (4) Correction of recurrences/late deformities.\n\n**1. Corrective — Ponseti method (gold standard):** manipulation and casting; the thumb stabilises the talus laterally while the other hand pulls and supinates the forefoot, reducing the navicular from medial subluxation; massaging the heel caudally treats the equinus deformity; weekly serial casting.\n\n**2. Operation:** complete release of joint tethers (capsular/ligamentous contractures, fibrotic bands); tendon lengthening so the foot positions normally without undue tension.\n\n**3. Retention treatment:** prophylactic splinting until age 4 to prevent recurrence — Ponseti brace, long-leg splint, anti-varus shoe, reversed shoes, shoes with a plantar joint, varus pad insert, inner shoe.\n\n**4. Correction of recurrences:** soft tissue corrections, tendon lengthening/transfer, osteotomies (tibia, calcaneus, talus, cuboid, medial cuneiform, metatarsals), external fixator correction (e.g. Ilizarov-type ring fixator).",
+        "type": "management"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["clubfoot", "paediatric orthopaedics", "CTEV"]
+  },
+  {
+    "id": "compartment-syndrome",
+    "slug": "compartment-syndrome",
+    "name": "Compartment Syndrome & Fasciotomy",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1gfZqwzpkipZkk-boN65r_Pefq63v2el6", "title": "Compartment syndrome.pdf", "viewUrl": "https://drive.google.com/file/d/1gfZqwzpkipZkk-boN65r_Pefq63v2el6/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Fasciotomy",
+        "content": "Fasciotomy (or fasciectomy) is a surgical procedure where fascia is cut to relieve tension/pressure, commonly to treat resulting loss of circulation to tissue or muscle. It is a limb-saving procedure for acute compartment syndrome, and is also sometimes used for chronic compartment stress syndrome.\n\nThe procedure has a high success rate; the most common problem is accidental damage to a nearby nerve. Complications can include scar tissue formation — thickening of surgical scars can reduce joint mobility, addressed through occupational/physical therapy.",
+        "type": "management"
+      },
+      {
+        "heading": "Complications of Fasciotomy",
+        "content": "- Altered sensation within wound margins (77%)\n- Dry, scaly skin (40%)\n- Pruritis (33%)\n- Iatrogenic neurovascular injury\n- Swollen limb\n- Tethered scars\n- Recurrent ulceration\n- Pain related to the wound\n- Permanent nerve damage\n- Permanent muscle damage and reduced limb function\n- Rhabdomyolysis -> acute renal failure\n- Volkmann's ischaemic contracture (infarcted muscle replaced by inelastic fibrous tissue)\n- DVT, neurologic deficit, infection, amputation",
+        "type": "complications"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["compartment syndrome", "trauma", "emergency"]
+  },
+  {
+    "id": "osteomyelitis",
+    "slug": "osteomyelitis",
+    "name": "Osteomyelitis (Acute & Chronic)",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1h9NwTEgzzpcOyobozlexvGvgMgyD8emS", "title": "Osteomyelitis.pdf", "viewUrl": "https://drive.google.com/file/d/1h9NwTEgzzpcOyobozlexvGvgMgyD8emS/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Acute Haematogenous Osteomyelitis",
+        "content": "A disease mainly of childhood in which organisms reach the bone through the bloodstream. Cause: infection of bone with pyogenic organisms — Staph. aureus, Salmonella.\n\n**Pathology:** in childhood, infection begins in the metaphysis of a long bone where blood flow is sluggish. Organisms lodge and multiply -> pus formation travels through Haversian canals -> pressure rises -> reaches the surface (periosteum) -> bulges out and ruptures -> bone necrosis.",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "Chronic Osteomyelitis (from Open Fracture / Surgery)",
+        "content": "Osteomyelitis complicating an open fracture or surgical operation, where organisms gain entry directly through the wound. Any part of the bone can be affected. Suppuration and necrosis occur as in haematogenous osteomyelitis, but pus discharges through the primary wound rather than collecting under the periosteum, and infection becomes chronic. Occurs in both adults and children.\n\n**Clinical features:** pain not prominent because pus is not contained under pressure. Wound examination reveals purulent discharge.\n\n**Treatment:** drainage, antibacterial agents; any sequestrated bone fragment should later be removed.",
+        "type": "management"
+      },
+      {
+        "heading": "Sequestrum & Involucrum",
+        "content": "Ischaemic bone eventually dies and separates from surrounding living bone as a **sequestrum**. Meanwhile new bone is laid down beneath the stripped-up periosteum, forming an investing layer known as the **involucrum**.",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "Clinical Features (Acute)",
+        "content": "- Rapid onset, feeling ill, severe pain\n- Pyrexia\n- Exquisite tenderness over the affected bone, clearly localised",
+        "type": "clinical"
+      },
+      {
+        "heading": "Investigations & Complications (Acute)",
+        "content": "**Investigations:** blood culture; CRP and ESR increased.\n\n**Complications:**\n- Septicaemia and pyaemia\n- Extension of infection to an adjacent joint -> pyogenic arthritis\n- Retardation of growth due to damage of the growth plate",
+        "type": "investigations"
+      },
+      {
+        "heading": "Treatment (Acute)",
+        "content": "- Rest, bed rest\n- General supportive care\n- Broad-spectrum antibiotics — cephalosporin with penicillin (synthetic); use vancomycin instead of penicillin if MRSA suspected; 3rd generation cephalosporin also used\n- Treat for around 4 weeks",
+        "type": "management"
+      },
+      {
+        "heading": "Chronic Osteomyelitis",
+        "content": "**Cause:** as with acute osteomyelitis — Staph. aureus, streptococci, pneumococci, coliform bacilli.\n\n**Pathology:** commonest in long bones; confined to one end of the bone or affects the whole length; bone becomes thicker and denser than normal. If a sequestrum is present, it never heals permanently.\n\n**Clinical features:** purulent discharge from a sinus, pain over the affected bone, intermittent or continuous discharge of pus, pyrexia, bone palpable and thickened.\n\n**Complications:** pathological fractures; can develop squamous cell carcinoma in a chronic sinus.\n\n**Treatment:** drain the abscess, remove fragments of infected dead bone, obliterate dead space, stabilise the skeleton if necessary, obtain soft tissue cover/reconstruction of bone defect, appropriate antibiotic cover.",
+        "type": "complications"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["bone infection", "osteomyelitis"]
+  },
+  {
+    "id": "frozen-shoulder",
+    "slug": "frozen-shoulder",
+    "name": "Frozen Shoulder (Adhesive Capsulitis)",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1Lt5Pc5ckOdSAfxpC0j6PxrSpNsxb65Fx", "title": "Frozen shoulder.pdf", "viewUrl": "https://drive.google.com/file/d/1Lt5Pc5ckOdSAfxpC0j6PxrSpNsxb65Fx/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Definition & Cause",
+        "content": "A common affection of the glenohumeral joint, characterised by pain and uniform limitation of all movements, without radiographic change, with a tendency to slow spontaneous recovery under appropriate treatment.\n\nCause unknown; no evidence of infection. Injury is an inconstant factor — symptoms often begin a few weeks after some form of injury.",
+        "type": "definition"
+      },
+      {
+        "heading": "Pathology",
+        "content": "Not fully understood, though an intense fibroblast response may represent an autoimmune reaction similar to Dupuytren's contracture of the hand. There is loss of resilience of the joint capsule, with adhesions between synovial folds — but these changes are reversible, and range of movement is usually restored to near normal.",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "Clinical Features",
+        "content": "Severe aching pain in the shoulder and upper arm, of gradual and spontaneous onset — often severe enough to disturb sleep.\n\nOn examination: the only finding is uniform impairment of all glenohumeral movements — abduction, flexion, extension, rotation — often reduced to about 1/4 to 1/2 of normal range. In severe cases, unimpaired scapular movement contributes to much of the remaining shoulder movement. No radiographic abnormalities.",
+        "type": "clinical"
+      },
+      {
+        "heading": "Diagnosis & Course",
+        "content": "Characteristic feature: uniform limitation of all glenohumeral movements with no evidence of inflammatory or destructive changes.\n\nCourse: spontaneous recovery within 6-12 months. Pain subsides first, leaving glenohumeral stiffness, which gradually resolves with active use of the limb. If movements are not practised deliberately, some permanent restriction may remain.",
+        "type": "generic"
+      },
+      {
+        "heading": "Treatment",
+        "content": "- **Acute, early painful stage:** rest the arm in a sling, removed for short periods each day for gentle assisted shoulder exercise; NSAIDs and conventional analgesics\n- **Severe pain:** steroid injection into the glenohumeral joint\n- **As pain lessens:** active exercises intensified and continued for weeks/months until full movement regained\n- **If mobilisation is very slow after pain resolves:** gentle manipulation under anaesthesia to break down residual adhesions, or arthroscopic distension with saline",
+        "type": "management"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["shoulder", "adhesive capsulitis", "frozen shoulder"]
+  },
+  {
+    "id": "rheumatoid-arthritis",
+    "slug": "rheumatoid-arthritis",
+    "name": "Rheumatoid Arthritis",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1x8qkl8vFQGjMGK642EwqU8k33NEdONtj", "title": "Rheumatoid arthritis.pdf", "viewUrl": "https://drive.google.com/file/d/1x8qkl8vFQGjMGK642EwqU8k33NEdONtj/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Definition",
+        "content": "A chronic inflammatory disorder in which the synovitis mainly affects joints, but can affect many tissues and organs, producing an inflammatory reaction.\n\n**Joint distribution:** peripheral synovial joints, symmetric, hands predominate (wrist, MCPs, PIPs — not DIPs).",
+        "type": "definition"
+      },
+      {
+        "heading": "Hand Features",
+        "content": "- Swan neck deformity\n- Ulnar deviation\n- Tendon nodules at MCPs; tendon rupture\n- Carpal tunnel syndrome\n- Radial deviation at wrist\n- Vasculitis, palmar erythema\n- Apophyseal/synovial proliferation",
+        "type": "clinical"
+      },
+      {
+        "heading": "Knee & Foot Features",
+        "content": "**Knees:** symmetric lateral and medial joint distribution, joint space loss, effusions, Baker's cyst (posterior herniation of joint capsule, may rupture).\n\n**Feet/ankle:** synovitis, metatarsophalangeal (MTP) synovitis and subluxation.\n\n**Cervical spine:** atlantoaxial instability.",
+        "type": "clinical"
+      },
+      {
+        "heading": "Rheumatoid Nodules",
+        "content": "Central necrosis surrounded by palisading fibroblasts and lymphocytes. Found subcutaneously/bursal, on tendon sheaths, extensor surfaces (forearm/Achilles), and MTPs.",
+        "type": "generic"
+      },
+      {
+        "heading": "Classification Criteria",
+        "content": "Must have 4/7 of:\n- Morning stiffness lasting at least 1 hour\n- Swelling in 3 or more joints\n- Swelling in hand joints\n- Symmetric joint swelling\n- Rheumatoid nodules\n- Abnormal rheumatoid factor\n- Erosions/periarticular osteopenia on hand/wrist X-ray\n\n**Lab abnormalities:** synovial fluid WBC >2000/mm3; anti-CCP; FBC, ESR, CRP; ANA.",
+        "type": "investigations"
+      },
+      {
+        "heading": "Radiography",
+        "content": "Findings: osteopenia, symmetric joint space loss, marginal erosions. Best films for diagnosis: bilateral hand arthritis series and bilateral foot series. Larger joints do not show erosions as readily due to thicker cartilage.",
+        "type": "investigations"
+      },
+      {
+        "heading": "Management",
+        "content": "Goals: relief of symptoms, prevention of structural damage, preservation of function, maintenance of normal lifestyle — via a multidisciplinary approach.\n\n- **Medication:** DMARDs and other agents to control disease and prevent deformity\n- **Non-medication:** pain reduction (TENS, acupuncture), physiotherapy and occupational therapy\n- **Surgery/rehabilitation:** joint replacement, arthrodesis",
+        "type": "management"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["rheumatoid arthritis", "autoimmune", "joint disease"]
+  },
+  {
+    "id": "bakers-cyst",
+    "slug": "bakers-cyst",
+    "name": "Baker's Cyst",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1B3LYXVCxxJpWFD6AoZ_bwYMebd0YvIKT", "title": "Bakers cyst.pdf", "viewUrl": "https://drive.google.com/file/d/1B3LYXVCxxJpWFD6AoZ_bwYMebd0YvIKT/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Definition & Pathophysiology",
+        "content": "A cystic swelling in the popliteal fossa caused by inflammation of the bursa underneath the tendon of gastrocnemius/semimembranosus, or protrusion of the synovial cavity of the knee joint through the joint capsule.",
+        "type": "definition"
+      },
+      {
+        "heading": "Clinical Features",
+        "content": "Usually painless, but if it ruptures there is significant pain behind the knee that radiates to the calf muscles, with visible swelling.",
+        "type": "clinical"
+      },
+      {
+        "heading": "Diagnosis",
+        "content": "Diagnosed by physical examination and imaging tests (ultrasound, X-ray).",
+        "type": "investigations"
+      },
+      {
+        "heading": "Treatment",
+        "content": "Aim is reducing swelling and managing the underlying cause if large.\n- Rest\n- Compression\n- Elevation\n- Physiotherapy",
+        "type": "management"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["knee", "Baker's cyst"]
+  },
+  {
+    "id": "supracondylar-fracture-and-nerve-injuries",
+    "slug": "supracondylar-fracture-and-nerve-injuries",
+    "name": "Supracondylar Fracture & Associated Nerve Injuries",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1GMZb23VrZnh2L6W7UTYA4sp2ssMqPOuZ", "title": "Supracondylar fracture & anterior interosseous nerve.pdf", "viewUrl": "https://drive.google.com/file/d/1GMZb23VrZnh2L6W7UTYA4sp2ssMqPOuZ/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Overview",
+        "content": "Common in children. Occurs due to a fall on an outstretched hand with the elbow partially flexed. Structures that can be damaged:\n1. Median nerve / anterior interosseous nerve\n2. Brachial artery\n3. Ulnar nerve\n4. Radial nerve",
+        "type": "definition"
+      },
+      {
+        "heading": "Median Nerve Damage",
+        "content": "**Motor impairment:** all muscles of the flexor compartment supplied by the median nerve are paralysed, except flexor carpi ulnaris and the medial half of flexor digitorum profundus (supplied by ulnar nerve). Wrist flexion becomes weak and accompanied by adduction. Flexion of the thumb (flexor pollicis longus and brevis) is also prevented, as both are paralysed.\n\n**Sensory impairment:** loss of sensation over the lateral 3.5 fingers and lateral palmar surface, and lateral dorsal surface of the hand.",
+        "type": "clinical"
+      },
+      {
+        "heading": "Anterior Interosseous Nerve (AIN)",
+        "content": "The AIN is a branch of the median nerve that supplies muscles in the anterior compartment of the forearm: flexor pollicis longus, flexor digitorum profundus to the index and middle fingers, and pronator quadratus. It controls fine movement of the thumb and fingers, as well as forearm pronation.\n\nIn supracondylar fractures of the humerus, there is risk of AIN damage, leading to weakness/paralysis of the muscles it supplies.\n\n**Symptoms:** difficulty flexing the thumb and fingers; weakness in forearm pronation.\n**Characteristic sign:** wasting of the thenar eminence due to atrophy of thenar muscles.",
+        "type": "clinical"
+      },
+      {
+        "heading": "Brachial Artery Damage",
+        "content": "Can lead to Volkmann's ischaemic contracture — an ischaemic condition in the arm causing permanent flexion of the hand and wrist. Flexor compartment muscles are affected, and a claw-like deformity can be seen in patients.",
+        "type": "complications"
+      },
+      {
+        "heading": "Ulnar Nerve Damage",
+        "content": "**Motor:** flexor carpi ulnaris and the medial half of flexor digitorum profundus are paralysed — flexion of the terminal phalanges of the ring and little fingers affected; wasting of flexor carpi ulnaris and small muscles of the hand (except thenar eminence muscles and lateral two lumbricals). Adduction of the thumb also affected as adductor pollicis is paralysed.\n\nIn long-lasting cases: characteristic claw deformity (ulnar claw hand).",
+        "type": "clinical"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["fracture", "nerve injury", "paediatric orthopaedics"]
+  },
+  {
+    "id": "avascular-necrosis-of-the-hip",
+    "slug": "avascular-necrosis-of-the-hip",
+    "name": "Avascular Necrosis of the Hip",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1Ix_gWm-TUfR30kefMyMqUw2Rd-NtmlAu", "title": "Avascular necrosis of hip.pdf", "viewUrl": "https://drive.google.com/file/d/1Ix_gWm-TUfR30kefMyMqUw2Rd-NtmlAu/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Definition & Blood Supply",
+        "content": "Avascular necrosis (osteonecrosis) of the hip is the death of a segment of bone due to disruption of its blood supply.\n\n**Blood supply to the proximal femur:**\n- Retinacular arteries — superior/inferior, anterior/posterior — ascending, transverse and descending branches of the lateral circumflex femoral artery\n- Artery of the ligamentum teres (foveolar artery) — from the medial circumflex femoral artery / deep femoral artery",
+        "type": "definition"
+      },
+      {
+        "heading": "Causes — Traumatic",
+        "content": "- Dislocation of the hip joint\n- Intracapsular neck-of-femur fracture (displaced ~30%, undisplaced also possible) — sometimes associated with subchondral necrosis due to thrombosis in intraosseous capillaries or sinusoidal occlusion due to marrow oedema",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "Causes — Non-Traumatic",
+        "content": "- **Infections:** osteomyelitis, septic arthritis\n- **Haemoglobinopathy:** sickle cell disease\n- **Storage disorders:** Gaucher's disease\n- **Caisson disease** (dysbaric osteonecrosis)\n- **Coagulation disorders:** familial thrombophilia, hypofibrinolysis, hypolipoproteinaemia, thrombocytopenic purpura\n- **Other:** Perthes' disease, corticosteroid administration, alcohol abuse, SLE, pregnancy, anaphylactic shock, ionizing radiation",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "Clinical Features",
+        "content": "- Early stages: asymptomatic\n- Pain on or near the hip joint, sometimes only with certain movements\n- Moderate stages: stiffness of the hip, a \"click\"\n- Later stages: mild to moderate swelling, local tenderness, limited range of motion, groin pain, deformed",
+        "type": "clinical"
+      },
+      {
+        "heading": "Pathological Progression",
+        "content": "Bone cells die within 12-48 hours of anoxia, but the gross appearance remains unaltered for weeks. Microscopic changes: loss of fat cell outlines, inflammatory cell infiltration, marrow oedema, and eventual replacement by necrotic marrow tissue.\n\nRepair begins within a few weeks — new blood vessels and osteoblastic proliferation occur at the interface between live and necrotic bone, with new bone laid on the necrotic trabeculae (increasing mineral density -> radiographic sclerosis). Reparative new bone does not advance into the necrotic zone — formation progresses slowly. Over time, structural failure begins near the most heavily stressed part of the segment (usually 8-10mm from the articular surface), forming a tangential fracture, possibly due to shearing stress. The necrotic segment may remain a hard shell (like a hard-boiled egg) until very late, but eventually the articular cartilage cracks and breaks through, leading to fragmentation and progressive joint destruction.",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "ARCO Staging",
+        "content": "- Stage 0: asymptomatic, all investigations normal; biopsy shows osteonecrosis\n- Stage 1: X-ray normal, MRI/radionuclide scan shows osteonecrosis\n- Stage 2: X-ray/MRI show early osteonecrosis, no distortion of bone shape or crescent sign\n- Stage 3: crescent sign present but femoral head still spherical\n- Stage 4: flattening/collapse of femoral head\n- Stage 5: as above plus loss of joint space (secondary OA)\n- Stage 6: as above plus marked destruction of articular surfaces\n\n(Subclassified by percentage of articular surface involved: A <15%, B 15-30%, C >30%)",
+        "type": "investigations"
+      },
+      {
+        "heading": "Treatment",
+        "content": "**Traumatic:**\n- Very young patients (<40 years): realignment osteotomy with/without bone grafting of the necrotic segment; may require hip replacement at a later stage\n- Older patients: partial/total hip joint replacement\n\n**Non-traumatic:**\n- Early: realignment osteotomy with/without bone grafting (treatment of choice)\n- Late: reconstructive surgery without osteotomy, or joint replacement",
+        "type": "management"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["hip", "avascular necrosis", "osteonecrosis"]
+  }
+]
