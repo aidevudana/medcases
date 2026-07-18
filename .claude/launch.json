@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "medicine-kuppiya-dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "cwd": "C:\\Users\\NewAdmin\\Desktop\\medicine-kuppiya-phase1",
+      "port": 3000
+    }
+  ]
+}
