@@ -698,5 +698,348 @@
     "keyPoints": [],
     "examTips": [],
     "tags": ["hip", "avascular necrosis", "osteonecrosis"]
+  },
+  {
+    "id": "back-pain",
+    "slug": "back-pain",
+    "name": "Back Pain",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1_pkzwocgV7aJVonsNAGdcgE0EqW3pEwT", "title": "Back pain.pdf", "viewUrl": "https://drive.google.com/file/d/1_pkzwocgV7aJVonsNAGdcgE0EqW3pEwT/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Causes",
+        "content": "Can arise from local structures — bones, ligaments, muscles, intraspinal problems — or extraspinal problems presenting as referred pain (abdominal structures: pancreatitis, renal pyelonephritis/UTI, cystitis, GIT problems, gynaecological problems/PID, aneurysms). All should be considered when taking history.\n\n- **Most common cause:** mechanical back pain — muscle pain, ligament pain, disc problems\n- **Sinister pathology:** malignancy (primaries rare; secondary/metastatic more common in old age) — primaries that give rise to bone secondaries: thyroid, breast, lung, kidney, prostate\n- **Infections:** acute cystitis, osteomyelitis (Staph aureus), epidural abscess, chronic TB (can cause paraspinal abscesses); comorbidities like DM increase risk\n- **Osteoporotic fractures** — history of trauma; common in old age (with infection and malignancy, these 3 are the classic triad in older patients)\n- **Inflammatory diseases:** ankylosing spondylitis (morning stiffness), rheumatoid arthritis and other seronegative arthritides\n- **Disc prolapse:** common in 30-40 year age group\n- **Degenerative lumbar/cervical spondylosis:** unknown cause leads to micromotion; protective osteophyte formation and facet joint hypertrophy occur (can progress to osteoarthritis); ligaments hypertrophy, disc can prolapse — spinal/neural canal can narrow\n- **Spondylolisthesis** (slipping of the spine); **scoliosis** (lateral plane deformity); **kyphosis** (thoracic, sagittal plane deformity)",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "History Taking",
+        "content": "Analyse pain using SOCRATES.\n- Lower back pain increasing with movement suggests mechanical type; continuous pain unrelated to movement suggests malignancy or infection\n- Morning stiffness with joint pain suggests inflammatory cause\n- Radiation (sciatica) suggests disc prolapse\n- **Neurogenic claudication:** pain on walking that does NOT resolve quickly with rest (unlike vascular claudication) — patient must sit/bend forward to relieve compression; pain radiates proximal to distal (opposite of vascular claudication, which is associated with vascular ulcers)\n\n**Red flag questions:** duration, onset (acute/chronic), progression, associations with urination/menstruation/movement/weight lifting/acute trauma, radiation, neurogenic claudication symptoms, weakness, numbness, bladder/bowel incontinence, fever, recent infections, TB history, past malignancy history.",
+        "type": "clinical"
+      },
+      {
+        "heading": "Differential by Age Group",
+        "content": "**Young patient:** disc prolapse, spondylolisthesis, inflammatory causes, mechanical causes.\n\n**Old patient (e.g. 80-year-old female):**\n- Degenerative spine changes (vertebral body/spine weakens with age; osteophyte formation as spine tries to protect the spinal cord) — main feature: scoliosis/kyphosis\n- Infections — spinal TB (high suspicion), pyogenic/bacterial infections of vertebral body/disc\n- Malignancies/tumours — primary or metastatic deposits\n- Trauma — old or acute fractures\n- Acute compression from disc herniation/prolapse\n- Others: UTI, renal calculi, gynaecological issues, muscle spasm\n\nAsk about symptoms of primary malignancies that metastasise to bone: thyroid (dysphagia, neck pain), lung (haemoptysis), kidney (painless haematuria), bowel (change in bowel habit, bloating), breast, prostate. Evening fever suggests TB (commonest infection).",
+        "type": "clinical"
+      },
+      {
+        "heading": "Examination",
+        "content": "- Look for deformities, curves, tenderness (paraspinal) — inspection, palpation, movement (flexion, extension, lateral bending, rotation)\n- Special tests for neurology: **SLRT (straight leg raise test)** — commonly used to identify disc pathology or nerve root irritation by mechanically stressing lumbosacral nerve roots; note the degree at which it becomes positive\n- Complete lower limb neurological exam: inspection, muscle power by root level, muscle group reflexes, dermatomal sensory testing\n- X-ray should be commented on systematically: name, age, view (AP/lateral), exposure/adequacy, soft tissue; should include 2 joints (proximal and distal)\n- Look for midline deformity, tenderness over the sacroiliac joints (bilateral SIJ involvement)",
+        "type": "examination"
+      },
+      {
+        "heading": "Investigations",
+        "content": "**Biochemical:**\n- FBC — WBC count to exclude infection\n- CRP — depends on history/exam, not for all patients\n- ESR — should be done for all back pain patients; if suspecting malignancy, request special investigations\n\n**Imaging:**\n- Plain radiograph\n- NCCT — if suspecting fractures or canal involvement\n- MRI — to see the spinal cord and nerve roots (soft tissue)\n\n**If ESR >100:** only 4-5 differentials, including tuberculosis and multiple myeloma. Further tests to exclude multiple myeloma: urine Bence Jones protein, serum protein electrophoresis (M band), blood picture.",
+        "type": "investigations"
+      },
+      {
+        "heading": "Cauda Equina Syndrome — Emergency",
+        "content": "An orthopaedic emergency. If the patient presents with back pain, loss of sensation, and bladder/bowel incontinence — must acutely decompress; cannot wait.",
+        "type": "complications"
+      },
+      {
+        "heading": "Management",
+        "content": "Depends on diagnosis:\n- Infection: drain abscess\n- Multiple myeloma/malignancy: refer to oncologist\n- Mechanical (muscle spasm): analgesics (NSAIDs, paracetamol, gabapentin), lifestyle modification, avoid abnormal postures, physiotherapy (muscle strengthening exercises), IR therapy (muscle relaxation)",
+        "type": "management"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["back pain", "spine", "red flags"]
+  },
+  {
+    "id": "cervical-spondylosis",
+    "slug": "cervical-spondylosis",
+    "name": "Cervical Spondylosis",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1G7DLW8l2mpWEBROJK0Ksn7G26k7dhXqJ", "title": "Cervical spondylosis.pdf", "viewUrl": "https://drive.google.com/file/d/1G7DLW8l2mpWEBROJK0Ksn7G26k7dhXqJ/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Definition & Epidemiology",
+        "content": "A chronic degenerative condition of the cervical spine, affecting the vertebral bodies and intervertebral discs of the neck (disc herniation, spur formation) and the contents of the spinal canal (nerve roots/spinal cord).\n\n- Begins at age 40-50; 85% of patients are over 65 years\n- Men > women\n- Most common levels: C5-C6 > C6-C7 (associated with the most flexion/extension in the subaxial spine)",
+        "type": "definition"
+      },
+      {
+        "heading": "Risk Factors",
+        "content": "1. Excessive driving\n2. Smoking\n3. Lifting\n4. Professional athletes",
+        "type": "clinical"
+      },
+      {
+        "heading": "Pathophysiology",
+        "content": "A natural aging process of the spine, characterised by degeneration of the discs and the other joints of the cervical motion segment (2 facet joints, 2 uncovertebral joints of Luschka).\n\n**Degenerative cycle:** disc degeneration (disc desiccation, loss of disc height) -> joint degeneration (uncinate spurring, facet arthrosis secondary to loss of disc height) -> ligamentous changes (ligamentum flavum thickening/infolding, disc bulging/possible herniation) -> deformity (kyphosis).",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "Associated Conditions & Mechanism of Compression",
+        "content": "Often leads to cervical radiculopathy, cervical myelopathy, and discogenic neck pain.\n\n- **Nerve root compression -> radiculopathy:** foraminal spondylotic changes — posterolateral disc herniation/disc-osteophyte complex, or foraminal soft disc herniation\n- **Central cord compression -> myelopathy:** occurs with canal diameter <13mm (normal 17mm); worse during neck extension, where the spinal cord is pinched between the degenerative disc (anterior) and hypertrophic facets (posterior)",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "Imaging",
+        "content": "**1. Radiographs:** degenerative changes of uncovertebral/facet joints, osteophyte formation, disc space narrowing, endplate sclerosis, decreased sagittal diameter. Lateral view for sagittal alignment/canal size; oblique view for foraminal stenosis; flexion/extension views for angular/translational instability.\n\n**2. MRI:** modality of choice for axial imaging; shows disc degeneration, spinal cord changes, compensatory subluxation above/below a stiff segment; used for preoperative planning.\n\n**3. CT myelography:** useful for bony anatomy, especially combined with intrathecal contrast (via C1-C2 puncture, diffused caudally, or lumbar puncture with Trendelenburg positioning, diffused proximally) to assess neural elements.",
+        "type": "investigations"
+      },
+      {
+        "heading": "Clinical Presentation",
+        "content": "- **Axial neck pain**\n- **Cervical radiculopathy:** unilateral arm pain, numbness and tingling in a dermatomal distribution in the hand, weakness in specific muscle groups\n- **Cervical myelopathy:** symmetrical numbness and tingling in extremities, hand clumsiness, gait imbalance",
+        "type": "clinical"
+      },
+      {
+        "heading": "Management",
+        "content": "- **Medical:** pain relievers, muscle relaxants, tricyclic antidepressants, steroid injections\n- **Physiotherapy:** TENS, traction, immobilisation with a neck collar, neck exercises\n- **Surgical management** for refractory/severe cases\n- Lifestyle modification and health advice",
+        "type": "management"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["cervical spine", "spondylosis", "radiculopathy"]
+  },
+  {
+    "id": "humerus-shaft-fracture",
+    "slug": "humerus-shaft-fracture",
+    "name": "Humerus Shaft Fracture",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1aB8Cbi0P36rrGFwz_k4YL4pa24M6_IQE", "title": "Humerus shaft fracture.pdf", "viewUrl": "https://drive.google.com/file/d/1aB8Cbi0P36rrGFwz_k4YL4pa24M6_IQE/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Overview",
+        "content": "Generally affects adults. Fracture line is usually transverse, typically due to direct trauma.",
+        "type": "definition"
+      },
+      {
+        "heading": "Clinical Features",
+        "content": "- Deformity\n- Pain\n- Inability to move\n- Ecchymosis",
+        "type": "clinical"
+      },
+      {
+        "heading": "Complications — Radial Nerve Injury",
+        "content": "Damage to the radial nerve where it lies in the radial (spiral) groove.\n- **Motor:** results in wrist drop\n- **Sensory:** loss of sensation over the dorsal surface of the skin over the roots of the lateral 3.5 fingers",
+        "type": "complications"
+      },
+      {
+        "heading": "Investigations",
+        "content": "X-ray: true AP and lateral views of the humerus, which should include the shoulder as well as the elbow (2 adjacent joints).",
+        "type": "investigations"
+      },
+      {
+        "heading": "Treatment",
+        "content": "- Application of a **U-slab** with a hanging cast — gravity helps reduce the fracture, the slab helps maintain alignment to a certain extent; there is no perfect reduction with this method, and incidence of malunion/non-union is consequently high\n- Radial nerve palsy is treated essentially conservatively\n- **Open reduction and internal fixation:** intramedullary nails, or plating with screws (easier to insert, performed under radiological guidance)",
+        "type": "management"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["fracture", "radial nerve", "humerus"]
+  },
+  {
+    "id": "hip-examination",
+    "slug": "hip-examination",
+    "name": "Hip Examination",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1PzGDmTuQo8fJJkE2wo92JSKsGE2RhA4v", "title": "Examination of hip.pdf", "viewUrl": "https://drive.google.com/file/d/1PzGDmTuQo8fJJkE2wo92JSKsGE2RhA4v/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Trendelenburg's Sign",
+        "content": "Tests hip abductor function. (a) Standing normally on two legs. (b) Standing on the right leg with a normal hip: abductor muscles ensure correct weight transference, pelvis stays level. (c) Standing on a leg with a faulty hip: abduction cannot be achieved, the pelvis drops on the unsupported side, and the shoulder swings over to that side — a **positive** Trendelenburg sign.",
+        "type": "examination"
+      },
+      {
+        "heading": "Testing Iliopsoas Function",
+        "content": "Best done with the patient sitting. Ask them to lift the thigh (flex the hip) against resistance — in this position psoas acts while the other hip flexors are relaxed. Pain or weakness suggests a local disorder such as psoas bursitis.",
+        "type": "examination"
+      },
+      {
+        "heading": "Leg Length Measurement",
+        "content": "Ensure the patient lies straight with the pelvis level (anterior superior iliac spines at the same level relative to the body's longitudinal axis), then check the medial malleoli — a discrepancy is usually obvious. Leg length is most accurately assessed by measuring from the anterior superior iliac spine to the tip of the medial malleolus on each side.",
+        "type": "examination"
+      },
+      {
+        "heading": "Movement Testing",
+        "content": "- **Thomas test (fixed flexion deformity):** forcing one hip into full flexion straightens the lumbar spine; the other hip should still achieve full extension in this position. If the tested hip cannot straighten out completely, this is a fixed flexion deformity.\n- **Abduction:** pelvis kept level by placing the opposite leg over the edge of the couch, hip also in abduction (examiner's hand checks the anterior spines) before abducting the target hip.\n- **Adduction:** tested similarly.\n- **External and internal rotation:** assessed first with hips in full extension, then in 90 degrees of flexion.\n- **Extension:** also tested.",
+        "type": "examination"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["hip", "examination", "Trendelenburg"]
+  },
+  {
+    "id": "dmards",
+    "slug": "dmards",
+    "name": "DMARDs (Disease Modifying Anti-Rheumatic Drugs)",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1lye8LscZmCm1S13vRIk260RK524e74Ot", "title": "DMARDs.pdf", "viewUrl": "https://drive.google.com/file/d/1lye8LscZmCm1S13vRIk260RK524e74Ot/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Definition & Indications",
+        "content": "DMARDs are a group of medications that decrease inflammation and pain. Used to treat inflammatory arthritides — rheumatoid arthritis (RA), psoriatic arthritis (PsA), ankylosing spondylitis (AS) — connective tissue diseases, inflammatory myositis, vasculitis, uveitis, inflammatory bowel disease, and some cancers.\n\nShould be started soon after diagnosis of RA. Act through cytokine inhibition. Every patient should be considered for at least one disease-modifying agent.",
+        "type": "definition"
+      },
+      {
+        "heading": "Limitations",
+        "content": "- May not prevent damage\n- May not have a lasting effect\n- May not be tolerated due to toxicity",
+        "type": "generic"
+      },
+      {
+        "heading": "Synthetic DMARDs",
+        "content": "- **Methotrexate** — commonly used, fast acting (4-6 weeks); give oral folic acid; monitor FBC, LFTs, baseline chest X-ray\n- **Sulfasalazine** — 500mg daily or 2-3g daily; monitor FBC, LFTs; response in 3-6 months\n- Other, less common: leflunomide, hydroxychloroquine, gold, azathioprine, D-penicillamine, cyclosporin A, cyclophosphamide",
+        "type": "management"
+      },
+      {
+        "heading": "Biologic DMARDs (Anti-Cytokine Therapy)",
+        "content": "**Anti-TNF alpha agents** — very expensive, used as adjunctive therapy, often in combination with methotrexate.\n- Etanercept\n- Infliximab\n- Adalimumab\n\nOther: IL-1 receptor antagonist (Anakinra).",
+        "type": "management"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["rheumatoid arthritis", "pharmacology", "DMARDs"]
+  },
+  {
+    "id": "multiple-myeloma",
+    "slug": "multiple-myeloma",
+    "name": "Multiple Myeloma and Related Disorders",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1IxYVpoPt-WW1T-5F8xo8NU0Xo3srQ-Lh", "title": "Multiple Myeloma and Related Disorders.pdf", "viewUrl": "https://drive.google.com/file/d/1IxYVpoPt-WW1T-5F8xo8NU0Xo3srQ-Lh/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Paraproteinaemia",
+        "content": "The presence of a monoclonal immunoglobulin band (M band/M protein) in the serum. Immunoglobulins are produced by plasma cells and B lymphocytes; normally serum Ig is polyclonal. In paraproteinaemia, M proteins are synthesised by a single abnormal plasma cell/B cell clone.\n\n**Diseases associated with M proteins:** multiple myeloma, Waldenstrom's macroglobulinaemia, lymphoma, CLL, primary amyloidosis, plasma cell leukaemia, solitary plasmacytoma, MGUS.",
+        "type": "definition"
+      },
+      {
+        "heading": "Multiple Myeloma — Definition & Pathophysiology",
+        "content": "A neoplastic disorder of plasma cells infiltrating the bone marrow, producing a paraprotein and related tissue damage — a chronic, progressive, fatal malignancy.\n\nM protein type: IgG 55%, IgA 20%, rarely IgD/IgE/IgM. May be associated with excretion of light chains (kappa or lambda) in urine (Bence Jones protein) — in some, only light chains are present with no serum paraprotein (light chain myeloma).\n\nMalignant plasma cells secrete osteoclast-activating factor, producing localised osteoporosis, lytic lesions, pathological fractures, and hypercalcaemia. Paraprotein causes increased plasma volume and hyperviscosity; light chain production has toxic effects on renal tubules; patients may develop amyloidosis and proteinuria; platelet function/coagulation can be affected.",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "Clinical Presentation",
+        "content": "1. Symptoms of: bone disease (pain, cord compression), impaired renal function, anaemia, hypercalcaemia, recurrent/persistent bacterial infection, hyperviscosity, amyloidosis\n2. Incidental detection of increased ESR or serum protein/globulin\n\nCan be asymptomatic or symptomatic. Suspected myeloma requires urgent specialist referral.\n\n**Case scenario:** 70-year-old male, chronic back pain x6 months, mildly pale/unwell. Hb 7g/dl, WCC/platelets mildly low, ESR 110mm/1st hr, S. creatinine 180 (normal <120), S. protein total 78g/dl (alb 25, glob 48) — classic picture of multiple myeloma.",
+        "type": "clinical"
+      },
+      {
+        "heading": "Investigations — Screening",
+        "content": "- FBC & blood film: anaemia (NN/macrocytic), neutropenia/thrombocytopenia, abnormal plasma cells, rouleaux formation\n- ESR — almost always high\n- Serum proteins: normal or low albumin, reversed albumin:globulin ratio\n- Urine for Bence Jones protein\n- Serum protein electrophoresis (and urine) — 'M' band\n- X-ray of symptomatic areas — lytic lesions and fractures\n- Serum ALP — normal unless pathological fractures present",
+        "type": "investigations"
+      },
+      {
+        "heading": "Investigations — Definitive Diagnosis",
+        "content": "- Bone marrow aspirate + trephine biopsy: >10% plasma cells, morphologically abnormal, monoclonal (kappa/lambda chain studies)\n- Immunofixation of serum and/or urine to confirm and type M protein\n- Serum free light chain assay",
+        "type": "investigations"
+      },
+      {
+        "heading": "Myeloma-Related Organ & Tissue Impairment (ROTI)",
+        "content": "Calcium, renal insufficiency, anaemia, bone lesions; also symptomatic hyperviscosity, amyloidosis, recurrent bacterial infections (>2 episodes in 12 months).\n\n**Tests to assess ROTI:** FBC, serum urea/creatinine, creatinine clearance, serum calcium, tissue biopsy/fat pad aspirate for amyloid (if suspected), skeletal survey.",
+        "type": "investigations"
+      },
+      {
+        "heading": "Diagnostic Criteria",
+        "content": "**Symptomatic myeloma:** ROTI present + M-protein in serum and/or urine + bone marrow clonal plasma cells or biopsy-proven plasmacytoma.\n\n**Asymptomatic myeloma:** no ROTI/symptoms + M-protein in serum >30 g/l and/or bone marrow clonal plasma cells >10%.\n\n**Prognostic tests:** serum beta-2 microglobulin, low serum albumin, LDH.",
+        "type": "investigations"
+      },
+      {
+        "heading": "Medical Emergencies & Management",
+        "content": "**Emergencies associated with MM:** spinal cord compression, hypercalcaemia, acute renal failure.\n\n**Management:**\n- Symptomatic measures: anaemia, hyperviscosity, local pain, hypercalcaemia\n- Chemotherapy: melphalan and prednisolone; thalidomide, bortezomib\n- Bone marrow transplantation",
+        "type": "management"
+      },
+      {
+        "heading": "Renal Involvement & Related Entities",
+        "content": "**Renal involvement:** deposition of light chains in renal tubules (Bence Jones protein), hypercalcaemia, hyperuricaemia, NSAID use, amyloid deposition, pyelonephritis.\n\n**Rare forms of MM (7%):** plasma cell leukaemia, IgD myeloma, IgE myeloma, IgM myeloma, non-secretory myeloma.\n\n**MGUS (Monoclonal Gammopathy of Undetermined Significance):** possible pre-stage of MM; patients asymptomatic, no organ involvement, usually incidental diagnosis. Diagnostic criteria: no related organ/tissue impairment, other causes of M band excluded, M-protein in serum <30 g/l, bone marrow clonal plasma cells <10% with low infiltration on trephine biopsy. No treatment needed — regular follow-up to detect progression to MM/lymphoma.",
+        "type": "complications"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["haematology", "multiple myeloma", "paraproteinaemia"]
+  },
+  {
+    "id": "radiculopathy",
+    "slug": "radiculopathy",
+    "name": "Radiculopathy",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1Iq-3rCWZg5wZ6e05FqB3P-p5JhDmSqiw", "title": "Radiculopathy.pdf", "viewUrl": "https://drive.google.com/file/d/1Iq-3rCWZg5wZ6e05FqB3P-p5JhDmSqiw/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Definition",
+        "content": "A clinical condition involving one or more nerves resulting in impaired function (neuropathy). The site of injury is at the level of the spinal nerve root, resulting in pain (radicular pain), limb weakness, numbness/paraesthesia, and difficulty controlling specific muscles. Most common types: acute lumbosacral radiculopathy and cervical radiculopathy.",
+        "type": "definition"
+      },
+      {
+        "heading": "Acute Lumbosacral Radiculopathy",
+        "content": "A diffuse disease process affecting more than one underlying nerve root, causing pain, sensory loss, and motor impairment depending on severity — typically self-limited.\n\n**Symptoms:** paraesthesia, back pain radiating into the foot, positive straight leg raise test. Muscle strength is often preserved since muscles typically receive innervation from multiple roots.\n\n**Causes:** herniated disc with nerve root compression, or spondylosis — can be acute or develop chronically. Imaging is not always diagnostic, as ~27% of patients without back pain have disc herniation on MRI.",
+        "type": "clinical"
+      },
+      {
+        "heading": "Cervical Radiculopathy",
+        "content": "Occurs when one or more nerves are affected at the nerve root level, resulting in pain (radicular pain), weakness, and numbness. Causes: disc herniation, spondylosis, or osteophytosis. Increased prevalence at age 40-49.\n\n**Diagnosis:** positive Spurling's test, positive distraction test, cervical rotation <60 degrees, positive Upper Limb Tension Test.",
+        "type": "investigations"
+      },
+      {
+        "heading": "Management & Natural History",
+        "content": "Exercise and manual therapy are more effective than a \"wait and see\" approach. Interventions: neck-specific/upper limb exercise, manual therapy, pain coping/stress management — a multimodal approach is more effective than manual therapy alone. Placebo cervical traction is no better than real cervical traction.\n\n**Natural history:** substantial improvement in 4-6 months; complete recovery can take 24-36 months; a small proportion have residual pain/disability. Neurological deficit: full recovery in the majority of cases without myelopathy.\n\n**Surgery vs physiotherapy:** surgery gives greater short-term pain reduction, but at 2 years there is minimal difference between surgery and physiotherapy for neck/arm pain and disability (80% surgical vs 70% physiotherapy self-rated as \"much better/better\").",
+        "type": "management"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["radiculopathy", "spine", "nerve root"]
+  },
+  {
+    "id": "trigger-finger",
+    "slug": "trigger-finger",
+    "name": "Trigger Finger (Digital Tenovaginosis)",
+    "specialty": "Orthopedics",
+    "specialtySlug": "orthopedics",
+    "sourceFiles": [
+      { "id": "1IurfDLOhU8dtr0sXad-nSG20gO6Os69H", "title": "Trigger finger.pdf", "viewUrl": "https://drive.google.com/file/d/1IurfDLOhU8dtr0sXad-nSG20gO6Os69H/view", "type": "pdf" }
+    ],
+    "fileCount": 1,
+    "sections": [
+      {
+        "heading": "Definition & Pathophysiology",
+        "content": "A flexor tendon becomes trapped by thickening at the entrance to its sheath; on forced extension it passes the constriction with a snap ('triggering'). A secondary nodule can develop on the tendon. Underlying cause is unknown, but more common in patients with diabetes. Patients with rheumatoid disease may develop synovial thickening or intratendinous nodules which can also cause triggering.",
+        "type": "pathophysiology"
+      },
+      {
+        "heading": "Clinical Features",
+        "content": "Any digit may be affected, but the thumb, ring, and middle fingers most commonly; sometimes several fingers are affected. The patient notices a click as the finger is flexed; when the hand is unclenched, the affected finger initially remains bent at the PIP joint but with further effort suddenly straightens with a snap. A tender nodule can be felt in front of the MCP joint, and the click can be reproduced at this site by alternately flexing and extending the finger.",
+        "type": "clinical"
+      },
+      {
+        "heading": "Treatment",
+        "content": "- **Adults:** injection of corticosteroids; refractory cases need operation (pulley release)\n- **Babies:** spontaneous recovery may occur; if not, the pulley is released",
+        "type": "management"
+      }
+    ],
+    "keyPoints": [],
+    "examTips": [],
+    "tags": ["hand", "trigger finger", "tenovaginosis"]
   }
 ]
